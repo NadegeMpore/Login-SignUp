@@ -1,0 +1,14 @@
+.wrap {
+  text-align: center;
+}
+.h3 {
+  color: black;
+  font-weight: bold;
+}
+.form-control {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: powderblue;
+}
